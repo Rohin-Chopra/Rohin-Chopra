@@ -8,7 +8,7 @@
 <hr/>
 
 ##### What am I doing right now?
-- Studying for the AWS Certified SysOps Administrator - Associate certification 
+- Studying for the AWS Certified Solutions Architect - Professional certification 
 
 #### Tech
 ![Typescript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
