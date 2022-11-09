@@ -48,6 +48,10 @@
  		<img src="https://github.com/Rohin1212/Rohin1212/blob/main/aws-certified-sysops-administrator-associate.png?raw=true" width="100" height="100"
 		     alt="AWS SysOps Administratior Associate ">
 	</a>
+		<a href="https://www.credly.com/badges/87c34aa0-073c-49b6-8864-52d86b783ecd/public_url" target="_blank" rel="noopener noreferrer">
+ 		<img src="https://github.com/Rohin1212/Rohin1212/blob/main/aws-certified-security-specialty.png?raw=true" width="100" height="100"
+		     alt="AWS Security Specialty ">
+	</a>
 </div>
 
 #### BIO
