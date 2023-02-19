@@ -7,8 +7,6 @@
 </p>
 <hr/>
 
-##### What am I doing right now?
-- Studying for the AWS Certified Database - Specialty certification 
 
 #### Tech
 ![Typescript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
@@ -51,6 +49,11 @@
 		<a href="https://www.credly.com/badges/87c34aa0-073c-49b6-8864-52d86b783ecd/public_url" target="_blank" rel="noopener noreferrer">
  		<img src="https://github.com/Rohin1212/Rohin1212/blob/main/aws-certified-security-specialty.png?raw=true" width="100" height="100"
 		     alt="AWS Security Specialty ">
+	</a>
+	</a>
+		<a href="https://www.credly.com/badges/87c34aa0-073c-49b6-8864-52d86b783ecd/public_url" target="_blank" rel="noopener noreferrer">
+ 		<img src="https://github.com/Rohin1212/Rohin1212/blob/main/aws-certified-database-specialty.png?raw=true" width="100" height="100"
+		     alt="AWS Database Specialty ">
 	</a>
 </div>
 
