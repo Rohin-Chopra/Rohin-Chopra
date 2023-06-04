@@ -52,7 +52,7 @@
        alt="AWS Security Specialty ">
  </a>
  </a>
-  <a href="https://www.credly.com/badges/87c34aa0-073c-49b6-8864-52d86b783ecd/public_url" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.credly.com/badges/9ff1badd-38a1-4e66-816d-91a7f7865a91/public_url" target="_blank" rel="noopener noreferrer">
    <img src="https://github.com/Rohin1212/Rohin1212/blob/main/aws-certified-database-specialty.png?raw=true" width="100" height="100"
        alt="AWS Database Specialty ">
  </a>
