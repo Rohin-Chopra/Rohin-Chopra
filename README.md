@@ -1,14 +1,14 @@
 ### Howdy 👋
 
-#### I'm Rohin, currently working as a Full Stack Software Engineer who is a lifelong learner that has a passion and curiosity for delivering value through tech.
+#### I'm Rohin, currently working as a Full Stack Software Engineer who is a lifelong learner that has a passion and curiosity for delivering value through tech
 
 <p align="center">
-	<a href="https://rohinchopra.com">My Website<a/>
+ <a href="https://rohinchopra.com">My Website<a/>
 </p>
 <hr/>
 
-
 #### Tech
+
 ![Typescript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -29,32 +29,33 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ### Certifications
-<div style="display:flex"> 
-	<a href="https://www.credly.com/badges/0de86e9f-7c45-4742-9e19-a2ea96146e8b/public_url" target="_blank" rel="noopener noreferrer">
-		<img src="https://github.com/Rohin1212/Rohin1212/blob/main/aws-certified-cloud-practitioner.png?raw=true" width="100" height="100" alt="AWS
-		Certified Cloud Practitioner">
-	</a>
-	<a href="https://www.credly.com/badges/2ec87625-d619-4406-9ba9-d0e9af970762/public_url" target="_blank" rel="noopener noreferrer">
- 		<img src="https://github.com/Rohin1212/Rohin1212/blob/main/aws-certified-solutions-architect-associate.png?raw=true" width="100"
-		     height="100" alt="AWS Certified Solutions Architect Associate">
-	</a>
-	<a href="https://www.credly.com/badges/63f3393b-c671-41a1-a82c-37dc922cded4/public_url" target="_blank" rel="noopener noreferrer">
- 		<img src="https://github.com/Rohin1212/Rohin1212/blob/main/aws-certified-developer-associate.png?raw=true" width="100" height="100"
-		     alt="AWS Certified Developer Associate ">
-	</a>
-	<a href="https://www.credly.com/badges/63f3393b-c671-41a1-a82c-37dc922cded4/public_url" target="_blank" rel="noopener noreferrer">
- 		<img src="https://github.com/Rohin1212/Rohin1212/blob/main/aws-certified-sysops-administrator-associate.png?raw=true" width="100" height="100"
-		     alt="AWS SysOps Administratior Associate ">
-	</a>
-		<a href="https://www.credly.com/badges/87c34aa0-073c-49b6-8864-52d86b783ecd/public_url" target="_blank" rel="noopener noreferrer">
- 		<img src="https://github.com/Rohin1212/Rohin1212/blob/main/aws-certified-security-specialty.png?raw=true" width="100" height="100"
-		     alt="AWS Security Specialty ">
-	</a>
-	</a>
-		<a href="https://www.credly.com/badges/87c34aa0-073c-49b6-8864-52d86b783ecd/public_url" target="_blank" rel="noopener noreferrer">
- 		<img src="https://github.com/Rohin1212/Rohin1212/blob/main/aws-certified-database-specialty.png?raw=true" width="100" height="100"
-		     alt="AWS Database Specialty ">
-	</a>
+
+<div style="display:flex">
+ <a href="https://www.credly.com/badges/0de86e9f-7c45-4742-9e19-a2ea96146e8b/public_url" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/Rohin1212/Rohin1212/blob/main/aws-certified-cloud-practitioner.png?raw=true" width="100" height="100" alt="AWS
+  Certified Cloud Practitioner">
+ </a>
+ <a href="https://www.credly.com/badges/2ec87625-d619-4406-9ba9-d0e9af970762/public_url" target="_blank" rel="noopener noreferrer">
+   <img src="https://github.com/Rohin1212/Rohin1212/blob/main/aws-certified-solutions-architect-associate.png?raw=true" width="100"
+       height="100" alt="AWS Certified Solutions Architect Associate">
+ </a>
+ <a href="https://www.credly.com/badges/63f3393b-c671-41a1-a82c-37dc922cded4/public_url" target="_blank" rel="noopener noreferrer">
+   <img src="https://github.com/Rohin1212/Rohin1212/blob/main/aws-certified-developer-associate.png?raw=true" width="100" height="100"
+       alt="AWS Certified Developer Associate ">
+ </a>
+ <a href="https://www.credly.com/badges/63f3393b-c671-41a1-a82c-37dc922cded4/public_url" target="_blank" rel="noopener noreferrer">
+   <img src="https://github.com/Rohin1212/Rohin1212/blob/main/aws-certified-sysops-administrator-associate.png?raw=true" width="100" height="100"
+       alt="AWS SysOps Administratior Associate ">
+ </a>
+  <a href="https://www.credly.com/badges/87c34aa0-073c-49b6-8864-52d86b783ecd/public_url" target="_blank" rel="noopener noreferrer">
+   <img src="https://github.com/Rohin1212/Rohin1212/blob/main/aws-certified-security-specialty.png?raw=true" width="100" height="100"
+       alt="AWS Security Specialty ">
+ </a>
+ </a>
+  <a href="https://www.credly.com/badges/87c34aa0-073c-49b6-8864-52d86b783ecd/public_url" target="_blank" rel="noopener noreferrer">
+   <img src="https://github.com/Rohin1212/Rohin1212/blob/main/aws-certified-database-specialty.png?raw=true" width="100" height="100"
+       alt="AWS Database Specialty ">
+ </a>
 </div>
 
 #### BIO
