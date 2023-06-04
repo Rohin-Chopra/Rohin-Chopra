@@ -56,6 +56,10 @@
    <img src="https://github.com/Rohin1212/Rohin1212/blob/main/aws-certified-database-specialty.png?raw=true" width="100" height="100"
        alt="AWS Database Specialty">
  </a>
+<a href="https://www.credly.com/badges/f7404221-d8ad-4725-bf17-b4d5fbd57291/public_url" target="_blank" rel="noopener noreferrer">
+   <img src="https://github.com/Rohin1212/Rohin1212/blob/main/hashicorp-certified-terraform-associate-003.png?raw=true" width="100" height="100"
+       alt="HashiCorp Certified: Terraform Associate">
+ </a>
 </div>
 
 #### BIO
