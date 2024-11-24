@@ -61,7 +61,7 @@
        alt="AWS Solutions Architect Professional">
  </a>
  <a href="https://www.credly.com/badges/b86199bb-6f5b-4825-b0d5-3726cf8284ec/public_url" target="_blank" rel="noopener noreferrer">
-   <img src="https://github.com/Rohin1212/Rohin1212/blob/main/microsoft-certified-fundamentals-badge.png?raw=true" width="100" height="100"
+   <img src="https://github.com/Rohin1212/Rohin1212/blob/main/microsoft-certified-fundamentals-badge.svg?raw=true" width="100" height="100"
        alt="AZ 900">
  </a>
 <a href="https://www.credly.com/badges/f7404221-d8ad-4725-bf17-b4d5fbd57291/public_url" target="_blank" rel="noopener noreferrer">
